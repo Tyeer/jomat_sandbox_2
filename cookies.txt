@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cardealer.webtemplatemasters.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	724%7C729%7C728%7C725%7C712
+cardealer.webtemplatemasters.com	TRUE	/	FALSE	1999999999	$Path	/
+cardealer.webtemplatemasters.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+cardealer.webtemplatemasters.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	e1b14c5f61cba39ea777b32c5b1a2f8f
+cardealer.webtemplatemasters.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_a8c0a4b9e23597b2756f0d2d6d26cc97	1c259d56dfd85a4c1ad133d5ba5f69c7%7C%7C1531241916%7C%7C1531238316%7C%7C9915e14a0eb2c82ae6e5a1d95b97242a
+
