@@ -13,11 +13,11 @@ body { background: #ffffff; }
 
 
 
-	a, a > * { color: #ff600a; }
+	a, a > * { color:#6394f7; }
 
 
 
-	a:hover { color: #ff600a; }
+	a:hover { color:#6394f7; }
 
 
 
@@ -109,11 +109,11 @@ body { background: #ffffff; }
 
 	.navigation > ul > li.current-menu-item > a,
 	.navigation > ul > li.current-menu-parent > a,
-	.navigation > ul > li.current-menu-ancestor > a { color: #ff600a; }
+	.navigation > ul > li.current-menu-ancestor > a { color:#6394f7; }
 
 
 
-	.navigation > ul > li:hover > a { color:#ff600a; }
+	.navigation > ul > li:hover > a { color:#ff60#6394f7; }
 
 
 /* Sublevels default, hover and active url colors */
@@ -160,7 +160,7 @@ body { background: #ffffff; }
 		color:#232527;
 	}
 
-	h1 a { color:#ff600a; }
+	h1 a { color:#ff60#6394f7; }
 	h1 a:hover { color:#7d7d7d; }
 
 
@@ -171,7 +171,7 @@ body { background: #ffffff; }
 		color:#7f858b;
 	}
 
-	h2 a { color:#ff600a; }
+	h2 a { color:#ff60#6394f7; }
 	h2 a:hover { color:#7d7d7d; }
 
 
@@ -182,7 +182,7 @@ body { background: #ffffff; }
 		color:#7f858c;
 	}
 
-	h3 a { color:#ff600a; }
+	h3 a { color:#ff60#6394f7; }
 	h3 a:hover { color:#7d7d7d; }
 
 
@@ -204,7 +204,7 @@ body { background: #ffffff; }
 		color:#232527;
 	}
 
-	h5 a { color:#ff600a; }
+	h5 a { color:#ff60#6394f7; }
 	h5 a:hover { color:#7d7d7d; }
 
 
@@ -215,7 +215,7 @@ body { background: #ffffff; }
 		color:#232527;
 	}
 
-	h6 a { color:#ff600a; }
+	h6 a { color:#ff60#6394f7; }
 	h6 a:hover { color:#7d7d7d; }
 
 
@@ -251,7 +251,7 @@ body { background: #ffffff; }
 	.button.dark {
 		font-size: 13px;
 		color: #fff;
-		background-color: #ff600a;
+		background-color:#6394f7;
 	}
 
 
@@ -268,7 +268,7 @@ body { background: #ffffff; }
 	.widget .widget-title > span,
 	.comment-reply-title > span
 	{
-		color: #ff600a;
+		color: #6394f7;
 	}
 
 	#sidebar .widget,
@@ -288,7 +288,7 @@ body { background: #ffffff; }
 		}
 
 			.boxed-widget .widget-title > span {
-				color: #ff600a;
+				color:#6394f7;
 			}
 
 	.boxed-widget {
@@ -330,11 +330,11 @@ body { background: #ffffff; }
 	}
 
 	#footer a:not(.button) {
-		color: #ff600a;
+		color:#6394f7;
 	}
 
 	#footer a:hover:not(.button) {
-		color: #ff600a;
+		color:#6394f7;
 	}
 
 	#footer .adjective,
